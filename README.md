@@ -1,7 +1,7 @@
 ## Build and run
 ```bash
 nimble install jester
-git clone https://github.com/bethford/nim-requests-counter.git
+git clone git@github.com:bethford/nim-requests-counter.git
 cd nim-requests-counter
 nim c --threads:on -r main
 ```
